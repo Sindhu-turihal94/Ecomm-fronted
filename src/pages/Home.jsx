@@ -6,7 +6,7 @@ function Home() {
       <h1>Shop Easy. Shop Fast.</h1>
       <p>Buy what you love at prices you trust.</p> <br />
   <hr /> <br />
-  <img src="https://themewagon.com/wp-content/uploads/2021/12/famms-1.png" alt="" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_O06FE3TfTHDb1TMlt5b2Qrjm6onJmleU0w&s" alt="" />
       <h2>🧩 Browse Categories</h2>
       <ol>
         <li>Men</li>
