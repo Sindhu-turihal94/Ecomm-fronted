@@ -23,7 +23,7 @@ function Register() {
     }
   return (
    <>
-   <div style={{borderRadius: "50%", display:'flex',alignItems:'center'}}>
+   
    <h1>REGISTRATION FROM</h1>
    <form onSubmit={submitdetails}>
     <div>
@@ -47,7 +47,7 @@ function Register() {
     <br />
     <button type='submit'>Submit</button>
    </form>
-   </div>
+
    </>
   )
 }
