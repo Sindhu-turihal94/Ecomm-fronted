@@ -6,7 +6,7 @@ function Home() {
       <h1>Shop Easy. Shop Fast.</h1>
       <p>Buy what you love at prices you trust.</p> <br />
   <hr /> <br />
-  <img height={500} width={500} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_O06FE3TfTHDb1TMlt5b2Qrjm6onJmleU0w&s" alt="" />
+  <img height={500} width={500} src="https://www.talk-business.co.uk/wp-content/uploads/2018/11/shutterstock_444505666.jpg" alt="" />
       <h2>🧩 Browse Categories</h2>
       <ol>
         <li>Men</li>
