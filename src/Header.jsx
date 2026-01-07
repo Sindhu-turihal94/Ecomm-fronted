@@ -18,7 +18,7 @@ function Header() {
               src="https://res.cloudinary.com/dhdepk5ib/image/upload/v1757696461/samples/ecommerce/leather-bag-gray.jpg"
               alt=""
             />
-            <b>My Bag</b>
+            <b>My Mart</b>
           </div>
       <nav style={{display:"flex",gap:'20px',alignItems:"center"}}>
        <Link to={"/"}><a href="">Home</a></Link> 
